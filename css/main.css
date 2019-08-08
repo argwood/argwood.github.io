@@ -56,3 +56,10 @@ ul.posts li {
 .column {
 	flex: 50%;
 }
+
+.left {
+	width: 75%
+}
+.right {
+	width: 25%
+}
