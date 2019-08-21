@@ -1,1 +1,3 @@
-# argwood.github.io
+# Arin R. Greenwood
+Personal website
+https://argwood.github.io
