@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Discord Hack Week 2019: Ditto Bot"
-date: 2019-08-08
+date: 2019-08-26
 ---
 <div class="row">
 <div class="left" markdown="1">
