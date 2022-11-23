@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tips From a Scientist and Storyteller"
-date: 2020-02-20
+date: 2022-11-22
 ---
 <div class="row">
 <div class="left" markdown="1">
