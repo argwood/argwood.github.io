@@ -62,15 +62,13 @@ In the abstract scatterplot below, the large difference in color between the mut
 
 It's the same concept that's used in photography or visual art to draw the viewers' eyes to a specific point of interest. Contrast. 
 
-Where are your eyes drawn in this photograph?
+Where are your eyes drawn in the photograph on the left, below? How about the one on the right?
 
-<img src="../../../assets/stopsign.PNG" width="50%" >
+<img src="../../../assets/stopsign.PNG" width="40%" >
 
-Most likely, your attention instantly goes to the big, red stopsign. But consider what happens when an image has little focus:
+<img src="../../../assets/umbrellas.PNG" width="40%" >
 
-<img src="../../../assets/umbrellas.PNG" width="50%" >
-
-Where are your eyes drawn now? Likely, everyone will give a different answer. There is no focus point, and pre-attentive processing is minimized. Think about some ways that this image could be improved to enhance its focus and optimize the viewers' pre-attentive processing.
+Most likely, your attention instantly goes to the big, red stop sign. But for the image of the umbrellas, there is very little focus. Likely, everyone's eyes will be drawn to a different place. There is no focus point, and pre-attentive processing is minimized. Think about some ways that this image could be improved to enhance its focus and optimize the viewers' pre-attentive processing.
 
 Finally, consider how we might take advantage of this concept in a real visualization by comparing the left and right charts below. 
 
@@ -88,9 +86,9 @@ Like a novel, data has a beginning, a middle, and an end. Or, perhaps more inter
 following:
 
 <ol>
-	<li> **Plot**: What context is essential?
-	<li> **Twists**: What is interesting about the data and what it shows?
-	<li> **Ending**: What do you want your audience to do?
+	<li> <b>Plot</b>: What context is essential?</li>
+	<li> <b>Twists</b>: What is interesting about the data and what it shows?</li>
+	<li> <b>Ending</b>: What do you want your audience to do?</li>
 <ol>
 
 You can also think of "twists" as a story's climax, and the ending as a resolution. A call to action.
@@ -103,7 +101,7 @@ I've seen this hundreds of times in hundreds of presentations over the years.
 
 That may be your story, but that is not the story of the data itself.
 
-For now, I leave you with <a href="nytimes.com/interactive/2021/06/30/opinion/environmental-inequity-trees-critical-infrastructure">this excellent example of Data Storytelling from the New York Times.</a>, as inspiration to go out and tell your own data story.
+For now, I leave you with <a href="nytimes.com/interactive/2021/06/30/opinion/environmental-inequity-trees-critical-infrastructure.html">this excellent example of Data Storytelling from the New York Times.</a>, as inspiration to go out and tell your own data story.
 
 
 
