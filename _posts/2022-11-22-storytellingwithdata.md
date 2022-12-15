@@ -88,7 +88,7 @@ following:
 	<li> <b>Plot</b>: What context is essential?</li>
 	<li> <b>Twists</b>: What is interesting about the data and what it shows?</li>
 	<li> <b>Ending</b>: What do you want your audience to do?</li>
-<ol>
+</ol>
 
 You can also think of "twists" as a story's climax, and the ending as a resolution. A call to action.
 
