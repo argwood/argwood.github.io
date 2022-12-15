@@ -41,7 +41,7 @@ You can transform your visualizations by following five guidelines:
 
 Here, I will go into detail on two of these guidelines that will help you quickly improve the effectiveness of your visualizations and how you present them: <b>focusing attention and telling a story</b>.
 
-For an example of effective transformation from an overly saturated and colored bar chart to a more effective and visually appealing visualization, I point you to <a href="http://www.storytellingwithdata.com/blog/how-does-this-graph-make-you-feel">this chart makeover</a> from the Storytelling with Data website.
+To start off, for an example of effective transformation from an overly saturated and colored bar chart to a more effective and visually appealing visualization, I point you to <a href="http://www.storytellingwithdata.com/blog/how-does-this-graph-make-you-feel">this chart makeover</a> from the Storytelling with Data website.
 
 The transformed chart:
 
