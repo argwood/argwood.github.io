@@ -23,7 +23,11 @@ Applause.
 
 As someone who spends her weekends writing fiction or painting urban landscapes, I spent most of my career feeling like no one else saw data as a story. That wasn't true, of course, but it sparked in me the need to show others the beautiful ways in which art and storytelling and data are all connected. 
 
-I'm lucky enough to teach a class on this topic at RIT, and have led presentations ono effective data communication to my team at Intel, but that's not helpful if you aren't a college student in Rochester, NY, or an engineer at Intel. Here, I hope to share just a few tips that you can take with you to help your audiences be just as excited about your data as you are.
+I'm lucky enough to teach a class on this topic at RIT, and have led presentations on effective data communication to my team at Intel, but that's not helpful if you aren't a college student in Rochester, NY, or an engineer at Intel. Here, I hope to share just a few tips that you can take with you to help your audiences be just as excited about your data as you are.
+
+<h2>1. Focus Attention </h2>
+
+<h2>2. Tell a Story </h2>
 
 </div>
 </div>
