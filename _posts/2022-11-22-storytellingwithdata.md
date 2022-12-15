@@ -64,9 +64,8 @@ It's the same concept that's used in photography or visual art to draw the viewe
 
 Where are your eyes drawn in the photograph on the left, below? How about the one on the right?
 
-<img src="../../../assets/stopsign.PNG" width="40%" >
+<img src="../../../assets/focus2.PNG" width="90%" >
 
-<img src="../../../assets/umbrellas.PNG" width="40%" >
 
 Most likely, your attention instantly goes to the big, red stop sign. But for the image of the umbrellas, there is very little focus. Likely, everyone's eyes will be drawn to a different place. There is no focus point, and pre-attentive processing is minimized. Think about some ways that this image could be improved to enhance its focus and optimize the viewers' pre-attentive processing.
 
