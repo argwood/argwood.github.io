@@ -5,6 +5,10 @@ date: 2022-11-22
 ---
 <div class="row">
 <div class="left" markdown="1">
+<b>Writing Sample for Brilliant, Data Science Producer</b>
+
+<b>Submission Type</b>: Blog Post
+
 Scientists are great with data. They love it. They'll happily spend their evenings in their labs, collecting their precious data, meticulously notetaking or just watching a tool tick towards completion. Years or months later, when they finally emerge with the data they were hoping for, they rejoice in excitement and can't wait to show you. <i>There's so much data, and it's good! The trends go the right way and the statistics are sound!</i>
 
 The problem is, they aren't always great at explaining that to others.
