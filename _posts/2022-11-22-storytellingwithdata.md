@@ -58,24 +58,25 @@ To drive this point home, consider the power of using color to draw attention us
 
 In the abstract scatterplot below, the large difference in color between the muted grey and saturated red dots makes it very easy to use pre-attentive processing to instantly recognize the difference and draw your eyes to the red dot.
 
-<img src="../../../assets/popout1.PNG" width="90%" >
+<img src="../../../assets/popout1.PNG" width="70%" >
 
 It's the same concept that's used in photography or visual art to draw the viewers' eyes to a specific point of interest. Contrast. 
 
 Where are your eyes drawn in this photograph?
 
-<img src="../../../assets/stopsign.PNG" width="90%" >
+<img src="../../../assets/stopsign.PNG" width="70%" >
 
 Most likely, your attention instantly goes to the big, red stopsign. But consider what happens when an image has little focus:
 
-<img src="../../../assets/umbrellas.PNG" width="90%" >
+<img src="../../../assets/umbrellas.PNG" width="70%" >
 
 Where are your eyes drawn now? Likely, everyone will give a different answer. There is no focus point, and pre-attentive processing is minimized. Think about some ways that this image could be improved to enhance its focus and optimize the viewers' pre-attentive processing.
 
-Finally, consider how we might take advantage of this concept in a real visualization by comparing the left and right charts below. Which one do you find easier to understand?
-
+Finally, consider how we might take advantage of this concept in a real visualization by comparing the left and right charts below. 
 
 <img src="../../../assets/focus.PNG" width="90%" >
+
+Which one do you find easier to understand?
 
 <h2>2. Tell a Story </h2>
 
