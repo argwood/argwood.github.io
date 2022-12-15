@@ -32,7 +32,7 @@ With just a few tricks, you can transform your visualizations by following four 
 	<li> Use whitespace to help a visualization look cleaner. </li>
 	<li> Use color sparingly and for a reason (<b>Focus Attention</b>)</li>
 	<li> Avoid unneccessary clutter (i.e. background images, gridlines). As much as possible, every drop of ink on the chart should relate to your data. </li>
-	<li> Tell a story.</li>
+	<li> <b>Tell a story.</b></li>
 </ol>
 
 For an example of effective transformation from an overly saturated and colored bar chart to a more effective and visually appealing visualization, I point you to <a href="http://www.storytellingwithdata.com/blog/how-does-this-graph-make-you-feel">this chart makeover</a> from the Storytelling with Data website.
@@ -58,17 +58,17 @@ To drive this point home, consider the power of using color to draw attention us
 
 In the abstract scatterplot below, the large difference in color between the muted grey and saturated red dots makes it very easy to use pre-attentive processing to instantly recognize the difference and draw your eyes to the red dot.
 
-<img src="../../../assets/popout1.PNG" width="70%" >
+<img src="../../../assets/popout1.PNG" width="50%" >
 
 It's the same concept that's used in photography or visual art to draw the viewers' eyes to a specific point of interest. Contrast. 
 
 Where are your eyes drawn in this photograph?
 
-<img src="../../../assets/stopsign.PNG" width="70%" >
+<img src="../../../assets/stopsign.PNG" width="50%" >
 
 Most likely, your attention instantly goes to the big, red stopsign. But consider what happens when an image has little focus:
 
-<img src="../../../assets/umbrellas.PNG" width="70%" >
+<img src="../../../assets/umbrellas.PNG" width="50%" >
 
 Where are your eyes drawn now? Likely, everyone will give a different answer. There is no focus point, and pre-attentive processing is minimized. Think about some ways that this image could be improved to enhance its focus and optimize the viewers' pre-attentive processing.
 
@@ -79,6 +79,41 @@ Finally, consider how we might take advantage of this concept in a real visualiz
 Which one do you find easier to understand?
 
 <h2>2. Tell a Story </h2>
+
+The final trick to a compelling visualization is understanding the importance of <b>story</b>.
+
+Just like a novel, data has a narrative. If you ignore that narrative, no matter how pretty your visualization is, no one will remember it.
+
+Like a novel, data has a beginning, a middle, and an end. Or, perhaps more interestingly, <b>a plot, a twist, and an ending</b>. For more details, take a look at <a href="http://www.storytellingwithdata.com/blog/2020/5/21/the-structures-of-story">The Structures of Story</a> from the same Storytelling with Data site. As Cole Nussbaumer Knaflic describes in <a href="https://www.youtube.com/watch?v=8EMW7io4rSI">her incredible Talk at Google</a>, the story of data can be broken down into the
+following:
+
+<ol>
+	<li> **Plot**: What context is essential?
+	<li> **Twists**: What is interesting about the data and what it shows?
+	<li> **Ending**: What do you want your audience to do?
+<ol>
+
+You can also think of "twists" as a story's climax, and the ending as a resolution. A call to action.
+
+And, like any novel or piece of art, you have to think about your audience. The Plot, Twist, and Ending will vary greatly depending on who you are talking to.
+
+It's very easy to share about your data in the chronological order that it affected you. I began to explore the data, I found some initial results. I refined those results. I made some conclusions. Here they are. 
+
+I've seen this hundreds of times in hundreds of presentations over the years.
+
+That may be your story, but that is not the story of the data itself.
+
+For now, I leave you with <a href="nytimes.com/interactive/2021/06/30/opinion/environmental-inequity-trees-critical-infrastructure">this excellent example of Data Storytelling from the New York Times.</a>, as inspiration to go out and tell your own data story.
+
+
+
+
+
+
+
+
+
+
 
 </div>
 </div>
