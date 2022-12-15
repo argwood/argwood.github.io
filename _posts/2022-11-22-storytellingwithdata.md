@@ -25,6 +25,16 @@ As someone who spends her weekends writing fiction or painting urban landscapes,
 
 I'm lucky enough to teach a class on this topic at RIT, and have led presentations on effective data communication to my team at Intel, but that's not helpful if you aren't a college student in Rochester, NY, or an engineer at Intel. Here, I hope to share just a few tips that you can take with you to help your audiences be just as excited about your data as you are.
 
+<h2>Effective Visualizations </h2>
+With just a few tricks, you can transform your visualizations by following four guidelines:
+<ol>
+	<li> Don't be afraid to use text: titles, axis labels, legends </li>
+	<li> Use whitespace to help a visualization look cleaner </li>
+	<li> Use color sparingly and for a reason </li>
+	<li> Avoid unneccessary clutter (i.e. background images, gridlines). As much as possible, every drop of ink on the chart should relate to your data. </li>
+</ol>
+
+For an example of effective transformation from an overly saturated and colored bar chart to a more effective and visually appealing visualization, I point you to <a href="http://www.storytellingwithdata.com/blog/how-does-this-graph-make-you-feel">this chart makeover</a> from the Storytelling with Data website.
 <h2>1. Focus Attention </h2>
 
 <h2>2. Tell a Story </h2>
