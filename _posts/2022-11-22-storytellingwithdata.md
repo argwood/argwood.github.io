@@ -71,7 +71,7 @@ Most likely, your attention instantly goes to the big, red stop sign. But for th
 
 Finally, consider how we might take advantage of this concept in a real visualization by comparing the left and right charts below. 
 
-<img src="../../../assets/focus.PNG" width="90%" >
+<img src="../../../assets/focus1.PNG" width="90%" >
 
 Which one do you find easier to understand?
 
