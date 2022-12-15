@@ -100,7 +100,7 @@ I've seen this hundreds of times in hundreds of presentations over the years.
 
 That may be your story, but that is not the story of the data itself.
 
-For now, I leave you with <a href="nytimes.com/interactive/2021/06/30/opinion/environmental-inequity-trees-critical-infrastructure.html">this excellent example of Data Storytelling from the New York Times.</a>, as inspiration to go out and tell your own data story.
+For now, I leave you with <a href="http://nytimes.com/interactive/2021/06/30/opinion/environmental-inequity-trees-critical-infrastructure.html">this excellent example of Data Storytelling from the New York Times.</a>, as inspiration to go out and tell your own data story.
 
 
 
