@@ -26,7 +26,7 @@ As someone who spends her weekends writing fiction or painting urban landscapes,
 I'm lucky enough to teach a class on this topic at RIT, and have led presentations on effective data communication to my team at Intel, but that's not helpful if you aren't a college student in Rochester, NY, or an engineer at Intel. Here, I hope to share just a few tips that you can take with you to help your audiences be just as excited about your data as you are.
 
 <h2>Effective Visualizations </h2>
-With just a few tricks, you can transform your visualizations by following four guidelines:
+You can transform your visualizations by following five guidelines:
 <ol>
 	<li> Don't be afraid to use text: titles, axis labels, legends. These help clarify meaning and create context for the viewer. </li>
 	<li> Use whitespace to help a visualization look cleaner. </li>
