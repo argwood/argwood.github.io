@@ -5,25 +5,25 @@ date: 2022-11-22
 ---
 <div class="row">
 <div class="left" markdown="1">
-Scientists are great with data. They love it. They'll happily spend their evenings in their labs, collecting their precious data, meticulously notetaking or just watching a tool tick towards completion. After months or years when they finally emerge with the data they were hoping for, they rejoice in excitement and can't wait to show you. There's so much data, and it's good! The trends go the right way and the statistics are sound!
+Scientists are great with data. They love it. They'll happily spend their evenings in their labs, collecting their precious data, meticulously notetaking or just watching a tool tick towards completion. Years or months later, when they finally emerge with the data they were hoping for, they rejoice in excitement and can't wait to show you. <i>There's so much data, and it's good! The trends go the right way and the statistics are sound!</i>
 
-The problem is, they aren't always great at explaining the data to others.
+The problem is, they aren't always great at explaining that to others.
 
 They're disappointed when you aren't excited too. But you haven't sat in the lab with this data for months. You haven't thought about it until today.
 
-As a PhD student, and even now working in industry, this was the world that surrounded me. Even with an advisor who loved a good, crisp data story as much as I did, we could not escape the hour-long presentations of endless slides, one plot after another, no cohesion and no clarity for the audience. 
+When I was a PhD student, and even now working in industry, this was the world that surrounded me. Even with an advisor who loved a good, crisp data story as much as I did, we could not escape the hour-long presentations of endless slides, one plot after another, no cohesion and no clarity for the audience. 
 
-Here is a plot. Here is another plot.
+<i>Here is a plot. Here is another plot.</i>
 
-They collected the data they sought to collect.
+<i>We collected the data we sought to collect.</i>
 
-Success. 
+<i>Success. </i>
 
-Applause.
+<i>Applause.</i>
 
-As someone who spends her weekends writing fiction or painting urban landscapes, I spent most of my career feeling like no one else saw data as a story. That wasn't true, of course, but it sparked in me the need to show others the beautiful ways in which art and storytelling and data are all connected. 
+As someone who spends her weekends writing fiction or painting urban landscapes, I spent most of my career feeling like no one else saw data as a story. That wasn't true, of course, but it sparked in me the need to show others the beautiful ways in which art, storytelling and data are all connected. 
 
-I'm lucky enough to teach a class on this topic at RIT, and have led presentations on effective data communication to my team at Intel, but that's not helpful if you aren't a college student in Rochester, NY, or an engineer at Intel. Here, I hope to share just a few tips that you can take with you to help your audiences be just as excited about your data as you are.
+I'm lucky enough to teach a class on this topic at RIT, and have led presentations on effective data communication for my team at Intel, but that's not helpful if you aren't a college student in Rochester, NY, or an engineer at Intel. Here, I'll share a few tips that you can take with you to help your audiences be as excited about your data as you are.
 
 <h2>Effective Visualizations </h2>
 You can transform your visualizations by following five guidelines:
@@ -34,6 +34,8 @@ You can transform your visualizations by following five guidelines:
 	<li> Avoid unneccessary clutter (i.e. background images, gridlines). As much as possible, every drop of ink on the chart should relate to your data. </li>
 	<li> <b>Tell a story.</b></li>
 </ol>
+
+Here, I will go into detail on two of these guidelines that will help you quickly improve the effectiveness of your visualizations and how you present them: <b>focusing attention and telling a story</b>.
 
 For an example of effective transformation from an overly saturated and colored bar chart to a more effective and visually appealing visualization, I point you to <a href="http://www.storytellingwithdata.com/blog/how-does-this-graph-make-you-feel">this chart makeover</a> from the Storytelling with Data website.
 
